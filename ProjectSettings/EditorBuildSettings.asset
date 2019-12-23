@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/20191211_02.unity
+    guid: 2414bcb9a7257b746a84529804377742
+  - enabled: 0
+    path: Assets/Scenes/20191212_Leo.unity
+    guid: 40d5ab2b46aa61d4eb5e96dc4fc2c57c
+  - enabled: 0
+    path: Assets/Scenes/20191216_01.unity
+    guid: c900ba8db18a5084a95b69a482649a7f
+  - enabled: 1
+    path: Assets/20191217.unity
+    guid: 9d291c59e57a7194d90a5d773302680a
+  m_configObjects: {}

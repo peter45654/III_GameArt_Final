@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 01bee0a6ce342ef4a99e65a64d1868e6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip010
+    100002: Bip010 Head
+    100004: Bip010 L Calf
+    100006: Bip010 L Clavicle
+    100008: Bip010 L Finger0
+    100010: Bip010 L Finger01
+    100012: Bip010 L Finger02
+    100014: Bip010 L Finger1
+    100016: Bip010 L Finger11
+    100018: Bip010 L Finger12
+    100020: Bip010 L Finger2
+    100022: Bip010 L Finger21
+    100024: Bip010 L Finger22
+    100026: Bip010 L Finger3
+    100028: Bip010 L Finger31
+    100030: Bip010 L Finger32
+    100032: Bip010 L Finger4
+    100034: Bip010 L Finger41
+    100036: Bip010 L Finger42
+    100038: Bip010 L Foot
+    100040: Bip010 L Forearm
+    100042: Bip010 L Hand
+    100044: Bip010 L Thigh
+    100046: Bip010 L Toe0
+    100048: Bip010 L UpperArm
+    100050: Bip010 Neck
+    100052: Bip010 Pelvis
+    100054: Bip010 R Calf
+    100056: Bip010 R Clavicle
+    100058: Bip010 R Finger0
+    100060: Bip010 R Finger01
+    100062: Bip010 R Finger02
+    100064: Bip010 R Finger1
+    100066: Bip010 R Finger11
+    100068: Bip010 R Finger12
+    100070: Bip010 R Finger2
+    100072: Bip010 R Finger21
+    100074: Bip010 R Finger22
+    100076: Bip010 R Finger3
+    100078: Bip010 R Finger31
+    100080: Bip010 R Finger32
+    100082: Bip010 R Finger4
+    100084: Bip010 R Finger41
+    100086: Bip010 R Finger42
+    100088: Bip010 R Foot
+    100090: Bip010 R Forearm
+    100092: Bip010 R Hand
+    100094: Bip010 R Thigh
+    100096: Bip010 R Toe0
+    100098: Bip010 R UpperArm
+    100100: Bip010 Spine
+    100102: Bip010 Spine1
+    100104: body_Object008
+    100106: //RootNode
+    100108: Object060
+    100110: Pistol_grip007
+    100112: unit002
+    400000: Bip010
+    400002: Bip010 Head
+    400004: Bip010 L Calf
+    400006: Bip010 L Clavicle
+    400008: Bip010 L Finger0
+    400010: Bip010 L Finger01
+    400012: Bip010 L Finger02
+    400014: Bip010 L Finger1
+    400016: Bip010 L Finger11
+    400018: Bip010 L Finger12
+    400020: Bip010 L Finger2
+    400022: Bip010 L Finger21
+    400024: Bip010 L Finger22
+    400026: Bip010 L Finger3
+    400028: Bip010 L Finger31
+    400030: Bip010 L Finger32
+    400032: Bip010 L Finger4
+    400034: Bip010 L Finger41
+    400036: Bip010 L Finger42
+    400038: Bip010 L Foot
+    400040: Bip010 L Forearm
+    400042: Bip010 L Hand
+    400044: Bip010 L Thigh
+    400046: Bip010 L Toe0
+    400048: Bip010 L UpperArm
+    400050: Bip010 Neck
+    400052: Bip010 Pelvis
+    400054: Bip010 R Calf
+    400056: Bip010 R Clavicle
+    400058: Bip010 R Finger0
+    400060: Bip010 R Finger01
+    400062: Bip010 R Finger02
+    400064: Bip010 R Finger1
+    400066: Bip010 R Finger11
+    400068: Bip010 R Finger12
+    400070: Bip010 R Finger2
+    400072: Bip010 R Finger21
+    400074: Bip010 R Finger22
+    400076: Bip010 R Finger3
+    400078: Bip010 R Finger31
+    400080: Bip010 R Finger32
+    400082: Bip010 R Finger4
+    400084: Bip010 R Finger41
+    400086: Bip010 R Finger42
+    400088: Bip010 R Foot
+    400090: Bip010 R Forearm
+    400092: Bip010 R Hand
+    400094: Bip010 R Thigh
+    400096: Bip010 R Toe0
+    400098: Bip010 R UpperArm
+    400100: Bip010 Spine
+    400102: Bip010 Spine1
+    400104: body_Object008
+    400106: //RootNode
+    400108: Object060
+    400110: Pistol_grip007
+    400112: unit002
+    2100000: 'Material #25'
+    2100002: 'Material #26'
+    2100004: 'Material #1164'
+    2100006: 'Material #1057'
+    2100008: 'Material #1069'
+    4300000: unit002
+    4300002: Pistol_grip007
+    4300004: body_Object008
+    4300006: Object060
+    7400000: Take 001
+    7400002: CH_Landing
+    7400004: CH_standBY
+    7400006: CH_GoodBye
+    7400008: CH_NEXT
+    9500000: //RootNode
+    13700000: body_Object008
+    13700002: Object060
+    13700004: Pistol_grip007
+    13700006: unit002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1057'
+    second: {fileID: 2100000, guid: 2babd01f92c95654d8484848358babe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1069'
+    second: {fileID: 2100000, guid: 8a9c600642901ac4ea24f6840f106060, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1164'
+    second: {fileID: 2100000, guid: bc29182812bd1c84a943bc1e200386bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #25'
+    second: {fileID: 2100000, guid: 4afabef2736fc5542b4cc88e37bcd048, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 8b6cdc1c78e9cae42ace0b3603e16346, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 01
+    second: {fileID: 2800000, guid: 0018e3f3af2cc864eab4afa4a4577e44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 02-2copy
+    second: {fileID: 2800000, guid: 7f713ca812f62664b96fed43c0307304, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BODY_UV04.3
+    second: {fileID: 2800000, guid: 2bbb6d3bdd1646843a87f8e877f89561, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: weapon_UV
+    second: {fileID: 2800000, guid: 1231a64a2ad8cd742ab36885d95d24d4, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CH_Landing
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 210
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CH_standBY
+      takeName: Take 001
+      firstFrame: 220
+      lastFrame: 310
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CH_GoodBye
+      takeName: Take 001
+      firstFrame: 310
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: CH_NEXT
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 490
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
